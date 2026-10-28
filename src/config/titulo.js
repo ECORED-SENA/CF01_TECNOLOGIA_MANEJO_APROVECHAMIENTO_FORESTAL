@@ -1,1 +1,1 @@
-module.exports = 'Ecored Base PKG'
+module.exports = 'Aplicación de técnicas geoespaciales en la agroforestería'
