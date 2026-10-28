@@ -131,16 +131,16 @@
                   tbody
                     tr
                       td.ajuste-border-tabla.texto-left.text-weight-bold −1,0 a 0,1
-                      td.texto-left Agua, nieve o estructuras.
+                      td.texto-left Agua, nieve o estructuras
                     tr.ajuste-color-tabla
                       td.ajuste-border-tabla.texto-left.text-weight-bold 0,2 a 0,3
-                      td.texto-left Suelo descubierto.
+                      td.texto-left Suelo descubierto
                     tr
                       td.ajuste-border-tabla.texto-left.text-weight-bold 0,4 a 0,5
-                      td.texto-left Vegetación moderada o pastos.
+                      td.texto-left Vegetación moderada o pastos
                     tr.ajuste-color-tabla
                       td.ajuste-border-tabla.texto-left.text-weight-bold 0,6 a 0,9
-                      td.texto-left Dosel denso o árboles con mayor vigor.
+                      td.texto-left Dosel denso o árboles con mayor vigor
           p.mb-0 En los sistemas agroforestales, la interpretación del NDVI aporta información sobre las características de la cobertura vegetal y puede apoyar el análisis del dosel y de las condiciones de sombra sobre los cultivos asociados.
           Separador
           #t_3_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
@@ -243,24 +243,24 @@
             p.mb-0 El cálculo de índices de vegetación puede realizarse mediante herramientas de procesamiento geoespacial que incorporan algoritmos específicos o permiten efectuar operaciones entre bandas espectrales. Estas alternativas facilitan el procesamiento de imágenes y la obtención de índices como NDVI, EVI, SAVI, ARVI y NBR (Alonso, 2020).
           p.mb-0 Las principales herramientas empleadas para el cálculo de índices de vegetación se presentan a continuación:
       TabsC.color-acento-contenido.mb-5(data-aos="zoom-in")
-        .py-3.py-md-4(titulo="Geographic Resources Analysis Support System (GRASS GIS) ")
+        .py-3.py-md-4(titulo="<i>Geographic Resources Analysis Support System</i> (GRASS GIS)")
           .row.justify-content-center.align-items-center
             .col-xl-5.order-2.order-lg-1
               figure
                 img(src='@/assets/curso/temas/t3/img22.png', alt="" ).m-auto
             .col-xl-7.order-1.order-lg-2.mb-4.mb-lg-0
-              h4.txt--purpura.mb-4 Geographic Resources Analysis Support System (GRASS GIS) 
+              h4.txt--purpura.mb-4 <i>Geographic Resources Analysis Support System </i>(GRASS GIS)
               p GRASS GIS dispone del módulo i.vi, mediante el cual pueden calcularse diferentes índices de vegetación.
               p.mb-0 Los índices disponibles mediante este módulo incluyen, entre otros, ARVI, DVI, EVI, EVI2, GVI, GARI, GEMI, IPVI, MSAVI, MSAVI2, NDVI, NDWI, PVI, SAVI, SR, VARI y WDVI (Alonso, 2020).
-        .py-3.py-md-4(titulo="System for Automated Geoscientific Analyses (SAGA GIS)")
+        .py-3.py-md-4(titulo="<i>System for Automated Geoscientific Analyses </i>(SAGA GIS)")
           .row.justify-content-center.align-items-center
             .col-xl-5.order-2.order-lg-1
               figure
                 img(src='@/assets/curso/temas/t3/img23.png', alt="" ).m-auto
             .col-xl-7.order-1.order-lg-2.mb-4.mb-lg-0
-              h4.txt--purpura.mb-4 System for Automated Geoscientific Analyses (SAGA GIS)
+              h4.txt--purpura.mb-4 <i>System for Automated Geoscientific Analyses </i>(SAGA GIS)
               p.mb-0 SAGA GIS incorpora herramientas destinadas al procesamiento de información ráster y dispone del algoritmo #[b Vegetation Index] para el cálculo de índices relacionados con la cobertura vegetal (Alonso, 2020).
-        .py-3.py-md-4(titulo="Orfeo <i>ToolBox</i> (OTB)")
+        .py-3.py-md-4(titulo="<i>Orfeo <i>ToolBox</i> (OTB)")
           .row.justify-content-center.align-items-center
             .col-xl-5.order-2.order-lg-1
               .titulo-sexto.color-acento-contenido.mb-2(data-aos="fade-right")

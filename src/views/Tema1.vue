@@ -94,7 +94,7 @@
       .row.justify-content-center.align-items-center.mb-5
         .col-xl.mb-4.mb-lg-0
           .caja-1.color-3(data-aos="fade-right")
-            p.mb-0 Las tecnologías geoespaciales (TGE) comprenden herramientas de hardware y software empleadas y recursos tecnológicos empleados para adquirir, almacenar, analizar y presentar información georreferenciada. En el ámbito agroforestal donde interactúan árboles, cultivos agrícolas y/o ganado en una misma unidad de manejo estas tecnologías permiten tomar decisiones basadas en la variabilidad espacial y temporal.
+            p.mb-0 Las tecnologías geoespaciales (TGE) comprenden herramientas de hardware y software empleadas y recursos tecnológicos empleados para adquirir, almacenar, analizar y presentar información georreferenciada. En el ámbito agroforestal, donde interactúan árboles, cultivos agrícolas y/o ganado en una misma unidad de manejo, estas tecnologías permiten tomar decisiones basadas en la variabilidad espacial y temporal.
         .col-xl-auto.col-md-9(data-aos="fade-left")
           figure
             img(src='@/assets/curso/temas/t1/img11.png', alt='' style="max-width: 270px").m-auto
@@ -124,13 +124,13 @@
             .col-xl-7.order-1.order-lg-2.mb-4.mb-lg-0
               h4.txt--purpura.mb-4 Sistemas Globales de Navegación por Satélite (GNSS / GPS)
               p.mb-0 Los Sistemas Globales de Navegación por Satélite (GNSS) permiten determinar coordenadas geográficas, como latitud, longitud y altitud, y facilitan el posicionamiento de elementos ubicados sobre el territorio.
-        .py-3.py-md-4(titulo="Cartografía digital y visualización web (web mapping)")
+        .py-3.py-md-4(titulo="Cartografía digital y visualización web (<i>web mapping</i>)")
           .row.justify-content-center.align-items-center
             .col-xl-5.order-2.order-lg-1
               figure
                 img(src='@/assets/curso/temas/t1/img15.png', alt="" ).m-auto
             .col-xl-7.order-1.order-lg-2.mb-4.mb-lg-0
-              h4.txt--purpura.mb-4 Cartografía digital y visualización web (web mapping)
+              h4.txt--purpura.mb-4 Cartografía digital y visualización web (<i>web mapping</i>)
               p.mb-0 La cartografía digital comprende plataformas y servicios que permiten representar y consultar datos espaciales mediante entornos web o aplicaciones móviles, como mapas digitales y visores territoriales institucionales.
       p.mb-0 La integración de estas tecnologías permite gestionar diferentes tipos de información espacial y generar insumos que apoyan el conocimiento, la planificación y el análisis del territorio.
       Separador

@@ -155,7 +155,7 @@ export default {
     {
       termino: 'Agroforestería',
       significado:
-        'sistema productivo donde interactúan intencionalmente especies leñosas perennes con cultivos agrícolas y/o ganado en la misma unidad de tierra',
+        'sistema productivo donde interactúan intencionalmente especies leñosas perennes con cultivos agrícolas y/o ganado en la misma unidad de tierra.',
     },
     {
       termino: 'ARVI',
@@ -165,12 +165,12 @@ export default {
     {
       termino: 'Biomasa',
       significado:
-        'cantidad total de materia viva presente en un área determinada, evaluada en agroforestería para estimar la captura de carbono',
+        'cantidad total de materia viva presente en un área determinada, evaluada en agroforestería para estimar la captura de carbono.',
     },
     {
       termino: 'Dosel',
       significado:
-        'cubierta superior formada por las copas de los árboles en un sistema agroforestal o ecosistema forestal',
+        'cubierta superior formada por las copas de los árboles en un sistema agroforestal o ecosistema forestal.',
     },
     {
       termino: 'EVI',
@@ -294,11 +294,6 @@ export default {
           cargo:
             'Profesional 06 - Responsable Ecosistema Virtual de Recursos Educativos Digitales',
           centro: 'Centro Agroturístico - Regional Santander',
-        },
-        {
-          nombre: 'Olga Constanza Bermúdez Jaimes',
-          cargo: 'Responsable de línea de producción Huila',
-          centro: 'Dirección General',
         },
       ],
     },
